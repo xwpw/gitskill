@@ -1,3 +1,4 @@
 Creating a new branch is quick and simple.
 hello man
-hello
+test
+Today is Good
